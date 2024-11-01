@@ -1,0 +1,1 @@
+Le Projet Pente a pour objectif de [décrire l’objectif du projet, par ex., simuler, analyser ou développer des stratégies pour le jeu Pente]. Ce projet contient des scripts Python et des ressources offrant des interfaces en ligne de commande et graphiques, ainsi que des outils personnalisés pour une expansion et une personnalisation supplémentaires
